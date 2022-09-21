@@ -1,1 +1,3 @@
 *.exe
+
+del_exe_files.bat
